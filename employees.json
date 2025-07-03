@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Damini",
+        "age": 26,
+        "designation": "tester",
+        "salary": 21000.0,
+        "original_salary": 20000
+    },
+    {
+        "name": "Alice",
+        "age": 27,
+        "designation": "programmer",
+        "salary": 25000,
+        "original_salary": 25000
+    },
+    {
+        "name": "charlie",
+        "age": 29,
+        "designation": "manager",
+        "salary": 30000,
+        "original_salary": 30000
+    },
+    {
+        "name": "Damini",
+        "age": 26,
+        "designation": "programmer",
+        "salary": 25000,
+        "original_salary": 25000
+    },
+    {
+        "name": "Rishm",
+        "age": 20,
+        "designation": "tester",
+        "salary": 20000,
+        "original_salary": 20000
+    }
+]
